@@ -2,7 +2,7 @@
 
 ### Olá eu sou o Adriano Souza 🤘
 
-[![Portifólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://portfolio-nine-kappa-77.vercel.app/)](https://portfolio-nine-kappa-77.vercel.app/)
+[![Portifólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://portfolio-nine-kappa-77.vercel.app/)](https://adriano-portfolio.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-rodrigues-de-souza-1ba443231)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano.lique/)
 
