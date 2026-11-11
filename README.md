@@ -109,7 +109,7 @@ const adriano = {
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdrianoJH&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats-zeta.vercel.app?user=AdrianoJH&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
