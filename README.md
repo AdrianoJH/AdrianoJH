@@ -109,16 +109,17 @@ const adriano = {
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoJH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoJH&layout=compact&theme=dracula&langs_count=8&cache_seconds=86400"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AdrianoJH&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrianoJH&theme=dracula&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianoJH&theme=dracula" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdrianoJH&theme=dracula&utcOffset=-3" alt="Horários produtivos"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdrianoJH&theme=dracula" alt="Linguagens por repositório"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianoJH&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
 
 ---
