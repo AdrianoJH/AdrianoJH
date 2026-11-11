@@ -3,7 +3,7 @@
 ### Olá eu sou o Adriano Souza 🤘
 
 [![Portifólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://adrianorsouza.dev/)](https://adrianorsouza.dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-rodrigues-de-souza-1ba443231)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianorodrigues-devfullstack/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano.lique/)
 
 ![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoJH&show_icons=true&theme=dracula)
